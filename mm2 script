@@ -5,4 +5,4 @@ loadstring(game:HttpGet("https://egorikusa.space/mm2"))()
 
 wait(1)
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/mm2duper/gui/main/gui"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Jalalx7/mm2-script/main/mm2%20script"))()
